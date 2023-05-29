@@ -1,51 +1,60 @@
-#Greed_Exercícios-Beecrowd
+# Greed_Exercicios-Beecrowd
 
-**Número da Lista**:8
-**Conteúdo da Disciplina**: Greed
+**Número da Lista**: 8<br>
+**Conteúdo da Disciplina**: Greed<br>
 
 ## Alunos
-|Matrícula | Aluno |
-| -- | -- |
-| 211031664  |  Catlen Cleane Ferreira de Oliveira |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| Matrícula | Aluno                              |
+| --------- | ---------------------------------- |
+| 211031664 | Catlen Cleane Ferreira de Oliveira |
+| 212002907 | Zenilda Pedrosa Vieira             |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+Escolhemos 2 exercícios do LeetCode e 3 do Beecrowd sobre a matéria estudada. 
+
+> Algoritmo do Caminhoneiro - Nível médio - [134 - Posto de Gasolina](134/LeetCode_134_Posto_de_Gasolina.py)<br>
+> Algoritmo "Interval Scheduling" - Nível difícil - [630 - Cronograma do Curso III](630/LeetCode_630_Cronograma_do_Curso_III.py)<br>
+> Algoritmo das moedas - Nível 6 - [1021 - Notas e Moedas](1021/Beecrowd_1021_Notas_e_Moedas.py)<br>
+> Algoritmo "Scheduling to Minimize Lateness" - Nível 6 - [2115 - Produção em Ecaterimburgo](2115/Beecrowd_2115_Producao_em_Ecaterimburgo.cpp)<br>
+> Algoritmo "Interval Partitioning" - Nível 7 - [1086 - O Salão do Clube](1086/Beecrowd_1086_O_Salão_do_Clube_com_pygame.py)<br>
+
+Obs.:  
 
 ## Screenshots
-Algoritmo de moeda - beecrowd - 1021 - pyhton 
 
-Algoritmo Interval Scheduling - leetcode - 630 - python 
+![134](134/Submissao_Aceita_LeetCode_134_Posto_de_Gasolina.JPG)
+![630](630/Submissao_Aceita_LeetCode_630_Cronograma_do_Curso_III.JPG)<br>
+![1021](1021/Submissao_Aceita_Beecrowd_1021_Notas_e_Moedas.jpg)
+![2115](2115/Submissao_Aceita_Beecrowd_2115_Producao_em_Ecaterimburgo.JPG)<br>
+![1086](1086/Submissao_Aceita_Beecrowd_1086_O_Salão_do_Clube_com_pygame.jpg)<br>
 
-Algoritmo de minimizar o atraso - beecrowd - 2115 - c++
+## Vídeo explicativo
 
-Algoritmo de caminhoneiro  - da gasolina - leetcode- 134 - python
-
-Algoritmo de interval partitioning - beecrowd - 1086 - python com interface gráfica
+[Apresentacao_Greedy.mp4](Apresentacao_Greedy.mp4)
 
 ## Instalação 
-**Linguagem**: C++ e Python
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+**Linguagens**: Python e C++<br> 
+Quatro códigos foram feitos em Python 3.11 e um deles em C++.
 
 ## Uso 
-Os exemplos do Beecrowd:
 Para rodar basta clonar o repositório e usar o comando no terminal (dentro da pasta do arquivo):
 
-python3 "nome_arquivo.py" < "nome_arq_entradas.txt"
+    python3 nome_arquivo.py < nome_arq_entradas.txt
 
-Outra forma de verificar o código é submetê-lo ao juiz do Beecrowd:
-https://www.beecrowd.com.br/judge/pt/problems/view/1021
-https://www.beecrowd.com.br/judge/pt/problems/view/2115
+    ou (para o código em C++)
+    
+    g++ -o nome_arquivo nome_arquivo.cpp
+    ./nome_arquivo < nome_arquivo_entrada.txt
+ 
 
-Os exemplos do LeetCode devem ser submetidos no juiz do site:
-https://leetcode.com/problems/gas-station/
-https://leetcode.com/problems/course-schedule-iii/description/
+Outra forma de verificar o código é submetê-lo ao juiz do Beecrowd.<br>
+[LeetCode - 134 - Posto de Gasolina](https://leetcode.com/problems/gas-station/)<br>
+[LeetCode - 630 - Cronograma do Curso III](https://leetcode.com/problems/course-schedule-iii/description/)<br>
+[Beecrowd - 1021 - Notas e Moedas](https://www.beecrowd.com.br/judge/pt/problems/view/1021)<br>
+[Beecrowd - 2115 - Produção em Ecaterimburgo](https://www.beecrowd.com.br/judge/pt/problems/view/2115)<br>
 
-
+Obs.: o exercicio [1086 - O Salão do Clube](1086/Beecrowd_1086_O_Salão_do_Clube_com_pygame.py) não foi submetido ao Beecrowd.<br>
+Ao invés disso, foi criada uma tela de saída com os resultados dos exemplos dados.
+    
 ## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
-
-
-
-
+Foram escolhidos um exercício de Algoritmo do Caminhoneiro, um de "Interval Scheduling", um de Algoritmo das Moedas, um de "Interval Partitioning" e um de "Scheduling to Minimize Lateness".
