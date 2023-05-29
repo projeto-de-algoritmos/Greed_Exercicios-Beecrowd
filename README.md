@@ -37,21 +37,28 @@ Obs.:
 Quatro códigos foram feitos em Python 3.11 e um deles em C++.
 
 ## Uso 
+Os exemplos do Beecrowd:
+
 Para rodar basta clonar o repositório e usar o comando no terminal (dentro da pasta do arquivo):
 
-    python3 nome_arquivo.py < nome_arq_entradas.txt
+    python3 "nome_arquivo.py" < "nome_arq_entradas.txt"
 
-    ou (para o código em C++)
+ou (para o código em C++)
     
     g++ -o nome_arquivo nome_arquivo.cpp
     ./nome_arquivo < nome_arquivo_entrada.txt
- 
 
-Outra forma de verificar o código é submetê-lo ao juiz do Beecrowd.<br>
-[LeetCode - 134 - Posto de Gasolina](https://leetcode.com/problems/gas-station/)<br>
-[LeetCode - 630 - Cronograma do Curso III](https://leetcode.com/problems/course-schedule-iii/description/)<br>
+Outra forma de verificar o código é submetê-lo ao juiz do Beecrowd:
+
 [Beecrowd - 1021 - Notas e Moedas](https://www.beecrowd.com.br/judge/pt/problems/view/1021)<br>
+
 [Beecrowd - 2115 - Produção em Ecaterimburgo](https://www.beecrowd.com.br/judge/pt/problems/view/2115)<br>
+
+Os exemplos do LeetCode devem ser submetidos no juiz do site:
+
+[LeetCode - 134 - Posto de Gasolina](https://leetcode.com/problems/gas-station/)<br>
+
+[LeetCode - 630 - Cronograma do Curso III](https://leetcode.com/problems/course-schedule-iii/description/)<br>
 
 Obs.: o exercicio [1086 - O Salão do Clube](1086/Beecrowd_1086_O_Salão_do_Clube_com_pygame.py) não foi submetido ao Beecrowd.<br>
 Ao invés disso, foi criada uma tela de saída com os resultados dos exemplos dados.
