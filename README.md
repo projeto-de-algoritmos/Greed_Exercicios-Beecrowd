@@ -16,14 +16,8 @@ Escolhemos 2 exercícios do LeetCode e 3 do Beecrowd sobre a matéria estudada.
 > Algoritmo "Interval Scheduling" - Nível difícil - [630 - Cronograma do Curso III](630/LeetCode_630_Cronograma_do_Curso_III.py)<br>
 > Algoritmo das moedas - Nível 6 - [1021 - Notas e Moedas](1021/Beecrowd_1021_Notas_e_Moedas.py)<br>
 > Algoritmo "Scheduling to Minimize Lateness" - Nível 6 - [2115 - Produção em Ecaterimburgo](2115/Beecrowd_2115_Producao_em_Ecaterimburgo.cpp)<br>
-<<<<<<< HEAD
-> Algoritmo "Interval Partitioning" - Nível 7 - [1086 - O Salão do Clube](1086/Beecrowd_1086_O_Salão_do_Clube_com_pygame.py)<br>
- 
-=======
 > Algoritmo "Interval Partitioning" - Nível 7 - [1086 - O Salão do Clube](1086/Beecrowd_1086_O_Salao_do_Clube_com_pygame.py)<br>
 
-Obs.:  
->>>>>>> 9f8cbe8fffdbfa15be25dc7ce6d6e9fd3b90654d
 
 ## Screenshots
 
