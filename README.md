@@ -26,22 +26,26 @@ Obs.:
 ![630](630/Submissao_Aceita_LeetCode_630_Cronograma_do_Curso_III.JPG)<br>
 ![1021](1021/Submissao_Aceita_Beecrowd_1021_Notas_e_Moedas.jpg)
 ![2115](2115/Submissao_Aceita_Beecrowd_2115_Producao_em_Ecaterimburgo.JPG)<br>
-![1086](1086/Submissao_Aceita_Beecrowd_1086_O_Salão_do_Clube_com_pygame.jpg)<br>
+![1086](1086/Tela_Resultado_Entrada_1.JPG)<br>
 
 ## Vídeo explicativo
 
-[Apresentacao_Greedy.mp4](Apresentacao_Greedy.mp4)
+[Apresentacao_Greed.mp4](Apresentacao_Greed.mp4)
 
 ## Instalação 
 **Linguagens**: Python e C++<br> 
 Quatro códigos foram feitos em Python 3.11 e um deles em C++.
+
+Para o exercício que utiliza a biblioteca Pygame pode ser necessário instalar usando 
+
+    pip install pygame
 
 ## Uso 
 Os exemplos do Beecrowd:
 
 Para rodar basta clonar o repositório e usar o comando no terminal (dentro da pasta do arquivo):
 
-    python3 "nome_arquivo.py" < "nome_arq_entradas.txt"
+    python3 nome_arquivo.py < nome_arq_entradas.txt
 
 ou (para o código em C++)
     
